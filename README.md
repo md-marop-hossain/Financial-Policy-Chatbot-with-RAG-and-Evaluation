@@ -30,7 +30,7 @@ The project is structured into four main components:
     - Features a **chat-style UI** with styled user/bot messages and timestamps.
     - Supports **session IDs** so users can have separate conversations.
     - Provides an **“Evaluate Answer”** option under each bot response:
-      - Displays the **original user question** and the **AI’s answer**.
+      - Displays the **AI’s answer**.
       - Runs ```/evaluate``` to show:
          - A re-generated grounded answer.
          - Cosine similarity scores (retrieval accuracy).
