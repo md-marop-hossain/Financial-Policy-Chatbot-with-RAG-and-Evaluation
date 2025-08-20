@@ -197,7 +197,7 @@ The evaluation matrix helps measure the quality, relevance, and reliability of g
 | PyMuPDF           | latest     |
 | pillow            | latest     |
 | fastapi           | latest     |
-| uvicorn[standard] | latest     | 
+| uvicorn | latest     | 
 | scikit-learn      | latest     | 
 | nest_asyncio      | latest     | 
 | streamlit         | latest     | 
