@@ -35,6 +35,16 @@ The project is structured into four main components:
          - A re-generated grounded answer.
          - Cosine similarity scores (retrieval accuracy).
          - Groundedness verification (Yes/No with explanation).
+           
+### Streamlit Chat UI
+<p align="center">
+  <img src="images/streamlit_chat_ui.png" width="800"/>
+</p>
+
+### Bot Response Evaluation
+<p align="center">
+  <img src="images/evaluate_answer.png" width="800"/>
+</p>
 
 
 ## 📦 Directory Structure
